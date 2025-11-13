@@ -11,7 +11,7 @@ The datasets must be downloaded from their respective research pages:
 2. UNSW-NB15 - https://research.unsw.edu.au/projects/unsw-nb15-dataset (the testing and training sets were used for example outputs).
 
 After running the code the following outputs will be displayed:
-
+```
 CICIDS2017:
 
 Dataset distribution: 
@@ -59,7 +59,8 @@ False Positive Rate: 0.00%
 SVM Accuracy: 99.54%
 Detection Rate (Recall): 71.84%
 False Positive Rate: 0.07%
-
+```
+```
 UNSW-NB15
 Dataset distribution: 
 label
@@ -107,3 +108,4 @@ False Positive Rate: 3.10%
 SVM Accuracy: 92.88%
 Detection Rate (Recall): 96.89%
 False Positive Rate: 14.23%
+```
