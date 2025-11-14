@@ -10,7 +10,7 @@ The datasets must be downloaded from their respective research pages:
 1. CICIDS2017 - https://www.unb.ca/cic/datasets/ids-2017.html (Monday and Tuesday traffic files were used for the example outputs). 
 2. UNSW-NB15 - https://research.unsw.edu.au/projects/unsw-nb15-dataset (the testing and training sets were used for example outputs).
 
-After running the code the following outputs will be displayed:
+After running the code the following outputs will be displayed on the limited portion of their respective datasets for performance reasons:
 ```
 CICIDS2017:
 
@@ -109,3 +109,4 @@ SVM Accuracy: 92.88%
 Detection Rate (Recall): 96.89%
 False Positive Rate: 14.23%
 ```
+
